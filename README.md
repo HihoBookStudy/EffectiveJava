@@ -22,11 +22,11 @@
 | 날짜 | 주제 | 리더 | 스터디 자료 정리 |
 | ---- | ---- | ---- | ---------------- |
 | 2024.03.06 | OT | - | - |
-| 2024.03.13 | item 1| 이유정 | [생성자 대신 정적 팩터리 메서드를 고려하라](https://legend-click-01d.notion.site/Item1-dcff2a11825546488a94df064f828ae1?pvs=4) |
- | 2024.03.13 | item 2| 이유정 | [생성자에 매개변수가 많다면 빌더를 고려하라](https://legend-click-01d.notion.site/Item2-bb0874a5322f4be99695f7d3302d94c4?pvs=4) |
- | 2024.03.13 | item 3| 이유정 | [private 생성자나 열거타입으로 싱글턴임을 보증하라](https://legend-click-01d.notion.site/Item3-private-c1a7a0fff27d4782a1dafb31114d2563?pvs=4) |
- | 2024.03.13 | item 4| 이유정 | [인스턴스화를 막으려거든 private 생성자를 사용하라](https://legend-click-01d.notion.site/Item4-private-a8d9dfe3ab4345218c6dc73627296264?pvs=4) |
- | 2024.03.13 | item 5| 이유정 | [자원을 직접 명시하지 말고 의존 객체 주입(DI)을 사용하라](https://legend-click-01d.notion.site/Item5-DI-59b3826e1bb44b2fa9f88330914a14d9?pvs=4) |
+| 2024.03.13 | item 1 : Static Factory Method(정적 팩터리 메서드) | 이유정 | [생성자 대신 정적 팩터리 메서드를 고려하라](https://legend-click-01d.notion.site/Item1-dcff2a11825546488a94df064f828ae1?pvs=4) |
+ | 2024.03.13 | item 2 : Builder(빌더) | 이유정 | [생성자에 매개변수가 많다면 빌더를 고려하라](https://legend-click-01d.notion.site/Item2-bb0874a5322f4be99695f7d3302d94c4?pvs=4) |
+ | 2024.03.13 | item 3 : Singleton(싱글턴)| 이유정 | [private 생성자나 열거타입으로 싱글턴임을 보증하라](https://legend-click-01d.notion.site/Item3-private-c1a7a0fff27d4782a1dafb31114d2563?pvs=4) |
+ | 2024.03.13 | item 4 : Non-instantiable Class (인스턴스화 불가 클래스) | 이유정 | [인스턴스화를 막으려거든 private 생성자를 사용하라](https://legend-click-01d.notion.site/Item4-private-a8d9dfe3ab4345218c6dc73627296264?pvs=4) |
+ | 2024.03.13 | item 5 : Dependency Injection(의존성 주입) | 이유정 | [자원을 직접 명시하지 말고 의존 객체 주입(DI)을 사용하라](https://legend-click-01d.notion.site/Item5-DI-59b3826e1bb44b2fa9f88330914a14d9?pvs=4) |
 ***
 ### 이슈 규칙
 1. 항상 아이템 말머리 달기 [아이템 1]
