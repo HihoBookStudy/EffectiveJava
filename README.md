@@ -27,6 +27,10 @@
  | 2024.03.13 | item 3 : Singleton(싱글턴)| 이유정 | [private 생성자나 열거타입으로 싱글턴임을 보증하라](https://legend-click-01d.notion.site/Item3-private-c1a7a0fff27d4782a1dafb31114d2563?pvs=4) |
  | 2024.03.13 | item 4 : Non-instantiable Class (인스턴스화 불가 클래스) | 이유정 | [인스턴스화를 막으려거든 private 생성자를 사용하라](https://legend-click-01d.notion.site/Item4-private-a8d9dfe3ab4345218c6dc73627296264?pvs=4) |
  | 2024.03.13 | item 5 : Dependency Injection(의존성 주입) | 이유정 | [자원을 직접 명시하지 말고 의존 객체 주입(DI)을 사용하라](https://legend-click-01d.notion.site/Item5-DI-59b3826e1bb44b2fa9f88330914a14d9?pvs=4) |
+ | 2024.03.20 | item 6 : Avoid unnecessary object createion | 김세훈 | [불필요한 객체 생성을 피하라](https://chatter-shovel-8ae.notion.site/Item06-7f41536017884965b7199536f297eae7?pvs=4) |
+ | 2024.03.20 | item 7 : Unlock object refference | 김세훈 | [다 쓴 객체 참조를 해제하라](https://chatter-shovel-8ae.notion.site/Item07-418061ea88e34414a08affb7209e7fba?pvs=4) |
+ | 2024.03.20 | item 8 : Avoid using finalizer and cleaner | 김세훈 | [finalizer와 cleaner 사용을 피하라](https://chatter-shovel-8ae.notion.site/Item08-finalizer-cleaner-fb671784df584fdc9d5dfc30b5612a33?pvs=4) |
+ | 2024.03.20 | item 9 : Try-with-Resources | 김세훈 | [try-finally 보다는 try-with-resources를 사용하라](https://chatter-shovel-8ae.notion.site/Item09-try-finally-try-with-resources-9bbaab4bafef402f8f77472d1d643207?pvs=4) |
 ***
 ### 이슈 규칙
 1. 항상 아이템 말머리 달기 [아이템 1]
