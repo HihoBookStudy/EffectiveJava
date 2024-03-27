@@ -31,6 +31,9 @@
  | 2024.03.20 | item 7 : Unlock object refference | 김세훈 | [다 쓴 객체 참조를 해제하라](https://chatter-shovel-8ae.notion.site/Item07-418061ea88e34414a08affb7209e7fba?pvs=4) |
  | 2024.03.20 | item 8 : Avoid using finalizer and cleaner | 김세훈 | [finalizer와 cleaner 사용을 피하라](https://chatter-shovel-8ae.notion.site/Item08-finalizer-cleaner-fb671784df584fdc9d5dfc30b5612a33?pvs=4) |
  | 2024.03.20 | item 9 : Try-with-Resources | 김세훈 | [try-finally 보다는 try-with-resources를 사용하라](https://chatter-shovel-8ae.notion.site/Item09-try-finally-try-with-resources-9bbaab4bafef402f8f77472d1d643207?pvs=4) |
+ | 2024.03.27 | item 10 : Obey the general contract when overriding equals | 강윤서 | [equals는 일반 규약을 지켜 재정의하라](https://amusing-blade-1b3.notion.site/Item-10-equals-6181e10472474dbcbd2b220ac1695b20?pvs=4) |
+ | 2024.03.27 | item 11 : Override hashCode when you override equals | 강윤서 | [equals를 재정의하려거든 hashCode도 재정의하라](https://amusing-blade-1b3.notion.site/Item-11-equals-hashCode-5996c57d79b64d16bbb768e995c6811e?pvs=4) |
+ | 2024.03.27 | item 12 : Override toString | 강윤서 | [toString을 항상 재정의하라](https://amusing-blade-1b3.notion.site/Item-12-toString-462ac485d36d4f189246fc1d68865349?pvs=4) |
 ***
 ### 이슈 규칙
 1. 항상 아이템 말머리 달기 [아이템 1]
