@@ -34,6 +34,9 @@
  | 2024.03.27 | item 10 : Obey the general contract when overriding equals | 강윤서 | [equals는 일반 규약을 지켜 재정의하라](https://amusing-blade-1b3.notion.site/Item-10-equals-6181e10472474dbcbd2b220ac1695b20?pvs=4) |
  | 2024.03.27 | item 11 : Override hashCode when you override equals | 강윤서 | [equals를 재정의하려거든 hashCode도 재정의하라](https://amusing-blade-1b3.notion.site/Item-11-equals-hashCode-5996c57d79b64d16bbb768e995c6811e?pvs=4) |
  | 2024.03.27 | item 12 : Override toString | 강윤서 | [toString을 항상 재정의하라](https://amusing-blade-1b3.notion.site/Item-12-toString-462ac485d36d4f189246fc1d68865349?pvs=4) |
+ | 2024.04.03 | item 13 : Override clone judiciously | 임가영 | [clone 재정의는 주의해서 진행하라](https://incongruous-cheshire-d58.notion.site/Item13-clone-5567f591ef2a4c7b9323761ccc871aa2?pvs=74) |
+ | 2024.04.03 | item 14 : Consider implementing Comparable | 임가영 | [Comparable을 구현할지 고려하라](https://incongruous-cheshire-d58.notion.site/Item14-Comparable-9f9940b671b84bf4ba636aa1e786868e?pvs=74) |
+  
 ***
 ### 이슈 규칙
 1. 항상 아이템 말머리 달기 [아이템 1]
