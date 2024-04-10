@@ -36,7 +36,10 @@
  | 2024.03.27 | item 12 : Override toString | 강윤서 | [toString을 항상 재정의하라](https://amusing-blade-1b3.notion.site/Item-12-toString-462ac485d36d4f189246fc1d68865349?pvs=4) |
  | 2024.04.03 | item 13 : Override clone judiciously | 임가영 | [clone 재정의는 주의해서 진행하라](https://incongruous-cheshire-d58.notion.site/Item13-clone-5567f591ef2a4c7b9323761ccc871aa2?pvs=74) |
  | 2024.04.03 | item 14 : Consider implementing Comparable | 임가영 | [Comparable을 구현할지 고려하라](https://incongruous-cheshire-d58.notion.site/Item14-Comparable-9f9940b671b84bf4ba636aa1e786868e?pvs=74) |
-  
+ | 2024.04.10 | item 15 : Minimize accesibility | 이유정 | [클래스와 멤버의 접근 권한을 최소화하라](https://legend-click-01d.notion.site/item15-09b30851f2c84c6d8856ef9088d33d75?pvs=4) |
+ | 2024.04.10 | item 16 : Accesor | 이유정 | [public 클래스에서는 public메서드가 아닌 접근자 메서드를 사용하라](https://legend-click-01d.notion.site/item16-public-public-e0ad365bf8334f45af9838fb9ea334d0?pvs=4) |
+ | 2024.04.10 | item 17 : Immutable Class(불변클래스)| 이유정 | [변경 가능성을 최소화하라](https://legend-click-01d.notion.site/item17-6aa99477520f481382cd08472b80b744?pvs=4) |
+ 
 ***
 ### 이슈 규칙
 1. 항상 아이템 말머리 달기 [아이템 1]
