@@ -39,6 +39,11 @@
  | 2024.04.10 | item 15 : Minimize accesibility | 이유정 | [클래스와 멤버의 접근 권한을 최소화하라](https://legend-click-01d.notion.site/item15-09b30851f2c84c6d8856ef9088d33d75?pvs=4) |
  | 2024.04.10 | item 16 : Accesor | 이유정 | [public 클래스에서는 public메서드가 아닌 접근자 메서드를 사용하라](https://legend-click-01d.notion.site/item16-public-public-e0ad365bf8334f45af9838fb9ea334d0?pvs=4) |
  | 2024.04.10 | item 17 : Immutable Class(불변클래스)| 이유정 | [변경 가능성을 최소화하라](https://legend-click-01d.notion.site/item17-6aa99477520f481382cd08472b80b744?pvs=4) |
+ | 2024.04.17 | item 18 : Inheritance & Composition(상속과 컴포지션)| 김세훈 | [상속보다는 컴포지션을 사용하라](https://chatter-shovel-8ae.notion.site/Item-18-da92494bb7e847598f0c6d0fb5fc444f) |
+ | 2024.04.17 | item 19 : Inheritance Documentation(상속의 설계와 문서화)| 김세훈 | [상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라](https://chatter-shovel-8ae.notion.site/Item-19-558f5ef36eae4aa298c783232ca2d6a7?pvs=4) |
+ | 2024.04.17 | item 20 : Abstract class & Interface(추상 클래스와 인터페이스)| 김세훈 | [추상 클래스보다는 인터페이스를 우선하라](https://chatter-shovel-8ae.notion.site/Item-20-a010389ee12544cbb237b714c824d2a8?pvs=4) |
+ | 2024.04.17 | item 21 : Interface Design(인터페이스 설계)| 김세훈 | [인터페이스는 구현하는 쪽을 생각해 설계하라](https://chatter-shovel-8ae.notion.site/Item-21-e8031d30c6124345ae1f7e172871e3bc?pvs=4) |
+ | 2024.04.17 | item 22 : Constant Interface(상수 인터페이스)| 김세훈 | [인터페이스는 타입을 정의하는 용도로만 사용하라](https://chatter-shovel-8ae.notion.site/Item-22-4c0d85dbffb94dae8df045e9ae4c129c?pvs=4) |
  
 ***
 ### 이슈 규칙
