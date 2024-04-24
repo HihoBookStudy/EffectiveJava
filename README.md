@@ -44,6 +44,9 @@
  | 2024.04.17 | item 20 : Abstract class & Interface(추상 클래스와 인터페이스)| 김세훈 | [추상 클래스보다는 인터페이스를 우선하라](https://chatter-shovel-8ae.notion.site/Item-20-a010389ee12544cbb237b714c824d2a8?pvs=4) |
  | 2024.04.17 | item 21 : Interface Design(인터페이스 설계)| 김세훈 | [인터페이스는 구현하는 쪽을 생각해 설계하라](https://chatter-shovel-8ae.notion.site/Item-21-e8031d30c6124345ae1f7e172871e3bc?pvs=4) |
  | 2024.04.17 | item 22 : Constant Interface(상수 인터페이스)| 김세훈 | [인터페이스는 타입을 정의하는 용도로만 사용하라](https://chatter-shovel-8ae.notion.site/Item-22-4c0d85dbffb94dae8df045e9ae4c129c?pvs=4) |
+ | 2024.04.24 | item 23 :  Class Hierachies to Tagged classes | 강윤서 | [태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://amusing-blade-1b3.notion.site/Item-23-c6181dce2b0548aa89ca5eb32541ab3d?pvs=4) |
+ | 2024.04.24 | item 24 : Nested classes | 강윤서 | [멤버 클래스는 되도록 static으로 만들라](https://amusing-blade-1b3.notion.site/Item-24-static-bac1f1ea03bd4a83ae90fdfa09a00a43?pvs=4) |
+ | 2024.04.24 | item 25 : A single top-level class | 강윤서 | [톱레벨 클래스는 한 파일에 하나만 담으라](https://amusing-blade-1b3.notion.site/Item-25-321a7e60ea5048ca9436e4794d29107e?pvs=4) |
  
 ***
 ### 이슈 규칙
