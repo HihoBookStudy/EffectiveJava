@@ -47,6 +47,10 @@
  | 2024.04.24 | item 23 :  Class Hierachies to Tagged classes | 강윤서 | [태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://amusing-blade-1b3.notion.site/Item-23-c6181dce2b0548aa89ca5eb32541ab3d?pvs=4) |
  | 2024.04.24 | item 24 : Nested classes | 강윤서 | [멤버 클래스는 되도록 static으로 만들라](https://amusing-blade-1b3.notion.site/Item-24-static-bac1f1ea03bd4a83ae90fdfa09a00a43?pvs=4) |
  | 2024.04.24 | item 25 : A single top-level class | 강윤서 | [톱레벨 클래스는 한 파일에 하나만 담으라](https://amusing-blade-1b3.notion.site/Item-25-321a7e60ea5048ca9436e4794d29107e?pvs=4) |
+ | 2024.05.02 | item 26 : Don't use raw types in new code | 임가영 | [로 타입 사용 금지](https://incongruous-cheshire-d58.notion.site/Item26-724c2144a56644ecb0a0ac7161e6aa49) |
+ | 2024.05.02 | item 27 : Eliminate unchecked warnings | 임가영 | [비검사 경고 제거](https://incongruous-cheshire-d58.notion.site/Item27-fc009ea4d1e54f098dc2cda745b7d607?pvs=74) |
+ | 2024.05.02 | item 28 : Prefer lists to arrays | 임가영 | [배열보다 리스트 사용](https://incongruous-cheshire-d58.notion.site/Item28-643ee1f8a8a44c98957871987cd5a4d8) |
+ | 2024.05.02 | item 29 : Favor generic methods | 임가영 | [이왕이면 제네릭 타입](https://incongruous-cheshire-d58.notion.site/Item29-fe6d514769b846a7a13182319dd51760) |
  
 ***
 ### 이슈 규칙
