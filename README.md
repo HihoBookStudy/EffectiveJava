@@ -51,7 +51,9 @@
  | 2024.05.02 | item 27 : Eliminate unchecked warnings | 임가영 | [비검사 경고 제거](https://incongruous-cheshire-d58.notion.site/Item27-fc009ea4d1e54f098dc2cda745b7d607?pvs=74) |
  | 2024.05.02 | item 28 : Prefer lists to arrays | 임가영 | [배열보다 리스트 사용](https://incongruous-cheshire-d58.notion.site/Item28-643ee1f8a8a44c98957871987cd5a4d8) |
  | 2024.05.02 | item 29 : Favor generic methods | 임가영 | [이왕이면 제네릭 타입](https://incongruous-cheshire-d58.notion.site/Item29-fe6d514769b846a7a13182319dd51760) |
- 
+| 2024.05.08 | item 30 : Generic Method(제네릭 메서드) | 이유정 | [이왕이면 제네릭 메서드로 만들라](https://legend-click-01d.notion.site/item30-312263496a0b473dad804eb3a5bc890e?pvs=4) |
+| 2024.05.08 | item 31 : Bounded WildCard(한정적 와일드카드) | 이유정 | [한정적 와일드카드를 사용해 API 유연성을 높이라](https://legend-click-01d.notion.site/item31-API-e7e010f01d0441588528532e44131be8?pvs=4) |
+| 2024.05.08 | item 32 : Generic with Varargs method (제네릭과 가변인수메서드) | 이유정 | [제네릭과 가변인수를 함께 쓸 때는 신중하라](https://legend-click-01d.notion.site/item32-f4634fac39ee42bf915d4302f2ae90fa?pvs=4) |
 ***
 ### 이슈 규칙
 1. 항상 아이템 말머리 달기 [아이템 1]
