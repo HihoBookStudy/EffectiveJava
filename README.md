@@ -58,6 +58,12 @@
 | 2024.05.15 | item 34 : Enumeration (열거 타입) | 김세훈 | [int 상수 대신 열거 타입을 사용하라](https://chatter-shovel-8ae.notion.site/item-34-int-f6ff685974824e50ba71f644949a98f3?pvs=4) |
 | 2024.05.15 | item 35 : Ordinal (순서 메서드) | 김세훈 | [ordinal 메서드 대신 인스턴스 필드를 사용하라](https://chatter-shovel-8ae.notion.site/Item-35-ordinal-3f2f8686eac84d0297a9acc120464979?pvs=4) |
 | 2024.05.15 | item 36 : EnumSet and BitField (열거형과 비트필드) | 김세훈 | [비트필드 대신 EnumSet을 사용하라](https://chatter-shovel-8ae.notion.site/Item-36-EnumSet-28c8b5dc9d5243438c65076e37f96923?pvs=4) |
+| 2024.05.29 | item 37 : EnumMap | 강윤서 | [ordinal 인덱싱 대신 EnumMap을 사용하라](https://amusing-blade-1b3.notion.site/37-ordinal-EnumMap-8d9db5a23c7e48eabc1fb711a3b1cd52?pvs=74) |
+| 2024.05.29 | item 38 : Emulate extensible enums with interfaces | 강윤서 | [확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라](https://amusing-blade-1b3.notion.site/38-91cfe77a49ef4e118be5dd89d84b3a99?pvs=74) |
+| 2024.05.29 | item 39 : Prefer annotations to naming patterns | 강윤서 | [명명 패턴보다 애너테이션을 사용하라](https://amusing-blade-1b3.notion.site/39-73a8a30bcdee4ea7ba467b6e522dae41?pvs=74) |
+| 2024.05.29 | item 40 : Consistently use the Override annotation | 강윤서 | [@Override 애너테이션을 일관되게 사용하라](https://amusing-blade-1b3.notion.site/40-Override-dca629597ade47ea8ea456130cb16285) |
+| 2024.05.29 | item 41 : Use marker interfaces to define types | 강윤서 | [정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://amusing-blade-1b3.notion.site/41-a84913cba040478cb79409718f415bf0?pvs=74) |
+
 ***
 ### 이슈 규칙
 1. 항상 아이템 말머리 달기 [아이템 1]
