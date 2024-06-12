@@ -63,6 +63,11 @@
 | 2024.05.29 | item 39 : Prefer annotations to naming patterns | 강윤서 | [명명 패턴보다 애너테이션을 사용하라](https://amusing-blade-1b3.notion.site/39-73a8a30bcdee4ea7ba467b6e522dae41?pvs=74) |
 | 2024.05.29 | item 40 : Consistently use the Override annotation | 강윤서 | [@Override 애너테이션을 일관되게 사용하라](https://amusing-blade-1b3.notion.site/40-Override-dca629597ade47ea8ea456130cb16285) |
 | 2024.05.29 | item 41 : Use marker interfaces to define types | 강윤서 | [정의하려는 것이 타입이라면 마커 인터페이스를 사용하라](https://amusing-blade-1b3.notion.site/41-a84913cba040478cb79409718f415bf0?pvs=74) |
+| 2024.06.12 | item 42 : Prefer lambdas to anonymous classes | 임가영 | [익명 클래스보다는 람다를 사용해라](https://incongruous-cheshire-d58.notion.site/Item-42-f20130f37899419cbb00f0d40a13d106?pvs=74) |
+| 2024.06.12 | item 43 : Prefer	method	references to lambdas | 임가영 | [람다보다는 메서드 참조를 사용하라](https://incongruous-cheshire-d58.notion.site/Item-43-b3f4542ecb004552965a7ff3b251d79a?pvs=74) |
+| 2024.06.12 | item 44 : Favor the	use	of standard functional interfaces | 임가영 | [표준 함수형 인터페이스를 사용하라](https://incongruous-cheshire-d58.notion.site/Item-44-a00c25a9ebdb4d31834e85834bf58037?pvs=74) |
+| 2024.06.12 | item 45 : Use streams judiciously | 임가영 | [스트림은 주의해서 사용하라](https://incongruous-cheshire-d58.notion.site/Item-45-6dde5a2395e346aaa8433d278b8e58cc?pvs=74) |
+| 2024.06.12 | item 46 : Prefer	side-effect-free functions in streams | 임가영 | [스트림에서는 부작용 없는 함수를 사용하라](https://incongruous-cheshire-d58.notion.site/Item-46-04f6c8c71d3e444e8ab975f3a435bf89?pvs=74) |
 
 ***
 ### 이슈 규칙
