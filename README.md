@@ -68,9 +68,14 @@
 | 2024.06.12 | item 44 : Favor the	use	of standard functional interfaces | 임가영 | [표준 함수형 인터페이스를 사용하라](https://incongruous-cheshire-d58.notion.site/Item-44-a00c25a9ebdb4d31834e85834bf58037?pvs=74) |
 | 2024.06.12 | item 45 : Use streams judiciously | 임가영 | [스트림은 주의해서 사용하라](https://incongruous-cheshire-d58.notion.site/Item-45-6dde5a2395e346aaa8433d278b8e58cc?pvs=74) |
 | 2024.06.12 | item 46 : Prefer	side-effect-free functions in streams | 임가영 | [스트림에서는 부작용 없는 함수를 사용하라](https://incongruous-cheshire-d58.notion.site/Item-46-04f6c8c71d3e444e8ab975f3a435bf89?pvs=74) |
+| 2024.06.19 | item 47 : Prefer Collection to Stream as a return type | 이유정 | [반환 타입으로는 스트림보다 컬렉션이 낫다.](https://legend-click-01d.notion.site/item47-c29b3cd583b846af95cc001c26c9f40f?pvs=4) |
+| 2024.06.19 | item 48 : Use caution when making streams parallel | 이유정 | [스트림 병렬화는 주의해서 적용하라](https://legend-click-01d.notion.site/item48-90f2f959c7cf4ca08fb1258f77effd15?pvs=4) |
+| 2024.06.19 | item 49 : Check parameters for validity | 이유정 | [매개변수가 유효한지 검사하라](https://legend-click-01d.notion.site/item49-83761b467892448496cf0e3c133088fe?pvs=4) |
+| 2024.06.19 | item 50 : Make defensive copies when needed | 이유정 | [적시에 방어적 복사본을 만들라](https://legend-click-01d.notion.site/item50-7131c64d07804fbaa61f46d7f2011163?pvs=4) |
 
 ***
 ### 이슈 규칙
 1. 항상 아이템 말머리 달기 [아이템 1]
 2. 질문/공유 라벨 달기
 3. 끝났으면 해당 이슈 닫기
+4. https://legend-click-01d.notion.site/item47-c29b3cd583b846af95cc001c26c9f40f?pvs=4
