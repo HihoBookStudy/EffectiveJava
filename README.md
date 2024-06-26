@@ -72,6 +72,11 @@
 | 2024.06.19 | item 48 : Use caution when making streams parallel | 이유정 | [스트림 병렬화는 주의해서 적용하라](https://legend-click-01d.notion.site/item48-90f2f959c7cf4ca08fb1258f77effd15?pvs=4) |
 | 2024.06.19 | item 49 : Check parameters for validity | 이유정 | [매개변수가 유효한지 검사하라](https://legend-click-01d.notion.site/item49-83761b467892448496cf0e3c133088fe?pvs=4) |
 | 2024.06.19 | item 50 : Make defensive copies when needed | 이유정 | [적시에 방어적 복사본을 만들라](https://legend-click-01d.notion.site/item50-7131c64d07804fbaa61f46d7f2011163?pvs=4) |
+| 2024.06.26 | item 51 : Method Signiture | 김세훈 | [메서드 시그니처를 신중히 설계하라]([https://legend-click-01d.notion.site/item50-7131c64d07804fbaa61f46d7f2011163?pvs=4](https://chatter-shovel-8ae.notion.site/Item-51-cbd75dc5c7ad48d3925c1e8f99a3afc6?pvs=4)) |
+| 2024.06.26 | item 52 : Method Overloading | 김세훈 | [다중정의는 신중히 사용하라]([https://legend-click-01d.notion.site/item50-7131c64d07804fbaa61f46d7f2011163?pvs=4](https://chatter-shovel-8ae.notion.site/Item-52-33ee3217fae940fcb9eae31597e34ab8?pvs=4)) |
+| 2024.06.26 | item 53 : Variable argument | 김세훈 | [가변인수는 신중히 사용하라]([https://legend-click-01d.notion.site/item50-7131c64d07804fbaa61f46d7f2011163?pvs=4](https://chatter-shovel-8ae.notion.site/Item-53-55141ddcdc7644fc90e94a6072ca1c5d?pvs=4)) |
+| 2024.06.26 | item 54 : Null and empty collection | 김세훈 | [null이 아닌 빈 컬렉션이나 배열을 반환하라]([https://legend-click-01d.notion.site/item50-7131c64d07804fbaa61f46d7f2011163?pvs=4](https://chatter-shovel-8ae.notion.site/Item-54-null-16db1795fe274cc1ac5354f93b80508c?pvs=4)) |
+| 2024.06.26 | item 55 : Optional | 김세훈 | [Optional 반환은 신중히 하라]([https://legend-click-01d.notion.site/item50-7131c64d07804fbaa61f46d7f2011163?pvs=4](https://chatter-shovel-8ae.notion.site/Item-55-Optional-54aad2e66cba483c8219a63ea53687b4?pvs=4)) |
 
 ***
 ### 이슈 규칙
