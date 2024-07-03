@@ -77,7 +77,10 @@
 | 2024.06.26 | item 53 : Variable argument | 김세훈 | [가변인수는 신중히 사용하라](https://chatter-shovel-8ae.notion.site/Item-53-55141ddcdc7644fc90e94a6072ca1c5d?pvs=4) |
 | 2024.06.26 | item 54 : Null and empty collection | 김세훈 | [null이 아닌 빈 컬렉션이나 배열을 반환하라](https://chatter-shovel-8ae.notion.site/Item-54-null-16db1795fe274cc1ac5354f93b80508c?pvs=4) |
 | 2024.06.26 | item 55 : Optional | 김세훈 | [Optional 반환은 신중히 하라](https://chatter-shovel-8ae.notion.site/Item-55-Optional-54aad2e66cba483c8219a63ea53687b4?pvs=4) |
-
+| 2024.07.03 | item 56 : Write doc comments for all exposed API elements | 강윤서 | [공개된 API 요소에는 항상 문서화 주석을 작성하라](https://amusing-blade-1b3.notion.site/56-API-0dd335db3b954c46818ae3b2e6fc7b61?pvs=4) |
+| 2024.07.03 | item 57 : Minimize the scope of local variables | 강윤서 | [지역변수의 범위를 최소화하라](https://amusing-blade-1b3.notion.site/57-fe6b3bde4f574d85b5e7f84f6ff7c629?pvs=4) |
+| 2024.07.03 | item 58 : Prefer for-each loops to traditional for loops | 강윤서 | [전통적인 for문 보다는 for-each문을 사용하라](https://amusing-blade-1b3.notion.site/58-for-for-each-2e06d4371008484ea204d52ef073cfa2?pvs=4) |
+| 2024.07.03 | item 59 : Know and use the libraries | 강윤서 | [라이브러리를 익히고 사용하라](https://amusing-blade-1b3.notion.site/59-85c7a6415a114218ae5f4784173af89e?pvs=4) |
 ***
 ### 이슈 규칙
 1. 항상 아이템 말머리 달기 [아이템 1]
