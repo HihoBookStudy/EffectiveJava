@@ -81,6 +81,14 @@
 | 2024.07.03 | item 57 : Minimize the scope of local variables | 강윤서 | [지역변수의 범위를 최소화하라](https://amusing-blade-1b3.notion.site/57-fe6b3bde4f574d85b5e7f84f6ff7c629?pvs=4) |
 | 2024.07.03 | item 58 : Prefer for-each loops to traditional for loops | 강윤서 | [전통적인 for문 보다는 for-each문을 사용하라](https://amusing-blade-1b3.notion.site/58-for-for-each-2e06d4371008484ea204d52ef073cfa2?pvs=4) |
 | 2024.07.03 | item 59 : Know and use the libraries | 강윤서 | [라이브러리를 익히고 사용하라](https://amusing-blade-1b3.notion.site/59-85c7a6415a114218ae5f4784173af89e?pvs=4) |
+| 2024.07.14 | item 60 : Avoid float and double if exact answers are required | 임가영 | [정확한 답이 필요하다면 float와 double은 피하라](https://incongruous-cheshire-d58.notion.site/Item-60-float-double-e2425a8f2cc042c792ff053f2836872a?pvs=74) |
+| 2024.07.14 | item 61 : Prefer primitive types to boxed primitives | 임가영 | [정확한 답이 필요하다면 float와 double은 피하라](https://incongruous-cheshire-d58.notion.site/Item-60-float-double-e2425a8f2cc042c792ff053f2836872a?pvs=74) |
+| 2024.07.14 | item 62 : Avoid strings where other types are more appropriate | 임가영 | [박싱된 기본 타입보다는 기본 타입을 사용하라](https://incongruous-cheshire-d58.notion.site/Item-61-9849e004c8fb451c9cdf7d66bcce1277) |
+| 2024.07.14 | item 63 : Beware the performance of string concatenation | 임가영 | [다른 타입이 적절하다면 문자열 사용을 피하라](https://incongruous-cheshire-d58.notion.site/Item-62-e3ea86f87d8344a09fa6ca226fed7f75) |
+| 2024.07.14 | item 64 : Refer to objects by their interfaces | 임가영 | [문자열 연결은 느리니 주의하라](https://incongruous-cheshire-d58.notion.site/Item-63-d26ea3f3d7d44fc4bfaf811a34185851) |
+| 2024.07.14 | item 65 : Prefer interfaces to reflection | 임가영 | [리플렉션보다는 인터페이스를 사용하라](https://incongruous-cheshire-d58.notion.site/Item-65-50ea72a4f68845ac89e41cc5bf1a1564) |
+
+
 ***
 ### 이슈 규칙
 1. 항상 아이템 말머리 달기 [아이템 1]
