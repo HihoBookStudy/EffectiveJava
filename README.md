@@ -87,7 +87,12 @@
 | 2024.07.14 | item 63 : Beware the performance of string concatenation | 임가영 | [문자열 연결은 느리니 주의하라](https://incongruous-cheshire-d58.notion.site/Item-63-d26ea3f3d7d44fc4bfaf811a34185851) |
 | 2024.07.14 | item 64 : Refer to objects by their interfaces | 임가영 | [객체는 인터페이스를 사용해 참조하라](https://incongruous-cheshire-d58.notion.site/Item-64-36171e28179e4eec97624fab401af9a1) |
 | 2024.07.14 | item 65 : Prefer interfaces to reflection | 임가영 | [리플렉션보다는 인터페이스를 사용하라](https://incongruous-cheshire-d58.notion.site/Item-65-50ea72a4f68845ac89e41cc5bf1a1564) |
-
+| 2024.07.21 | item 66 : Native methods | 이유정 | [네이티브 메서드는 신중히 사용하라](https://legend-click-01d.notion.site/item66-6f7ad16155f24d07919d856504c04788?pvs=4) |
+| 2024.07.21 | item 67 : Optimize | 이유정 | [최적화는 신중히 하라](https://legend-click-01d.notion.site/item67-abb15b4f21524b5d9409338d1137ad09?pvs=4) |
+| 2024.07.21 | item 68 : Naming Conventions | 이유정 | [일반적으로 통용되는 명명 규칙을 따르라](https://legend-click-01d.notion.site/item68-908e5fb750904296b736cd1ce577c75b?pvs=4) |
+| 2024.07.21 | item 69 : Exceptional Conditions | 이유정 | [예외는 진짜 예외상황에만 사용하라](https://legend-click-01d.notion.site/item69-7460de62a2e44da491ad63fea11c00c3?pvs=4) |
+| 2024.07.21 | item 70 : Checked Exception & Unchecked Exception | 이유정 | [복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라](https://legend-click-01d.notion.site/item70-186932fa67164f119a864a035dafbbe1?pvs=4) |
+| 2024.07.21 | item 71 : unnecessary use of checked exceptions | 이유정 | [필요없는 검사 예외 사용은 피하라](https://legend-click-01d.notion.site/item71-7422ff7f848943618370784e3d2ec76a?pvs=4) |
 
 ***
 ### 이슈 규칙
