@@ -99,6 +99,9 @@
 | 2024.07.21 | item 75 : collect exception message                            | 김세훈 | [예외의 상세 메시지에 실패 관련 정보를 담으라](https://chatter-shovel-8ae.notion.site/item-75-59126a78ef3a4976b306d21e9ad7f288?pvs=4)                                              |
 | 2024.07.21 | item 76 : make method atomic failure                           | 김세훈 | [가능한 한 실패 원자적으로 만들라](https://chatter-shovel-8ae.notion.site/Item-76-ead83d783e9740f388cfc95016839de3?pvs=4)                                                     |
 | 2024.07.21 | item 77 : don't ignore exception                               | 김세훈 | [예외를 무시하지 말라](https://chatter-shovel-8ae.notion.site/Item-77-eb541388e1d24f6cbdbdd9b3dbafab8b?pvs=4)                                                            |
+| 2024.08.04 | item 78 : Synchronize access to shared mutable data | 강윤서 | [공유 중인 가변 데이터는 동기화해 사용하라](https://amusing-blade-1b3.notion.site/78-18187efa075f41b680c3d5a5c0a65bbe?pvs=4) |
+| 2024.08.04 | item 79 : Avoid excessive synchronization | 강윤서 | [과도한 동기화는 피하라](https://amusing-blade-1b3.notion.site/79-04e29959e984463596cf274e84fe474f?pvs=4) |
+| 2024.08.04 | item 80 : Prefer executors, tasks, and streams to threads | 강윤서 | [스레드보다는 실행자, 태스크, 스트림을 애용하라](https://amusing-blade-1b3.notion.site/80-8bc23fc81c624bef95ef64df0da8e199?pvs=4) |
 
 ***
 ### 이슈 규칙
