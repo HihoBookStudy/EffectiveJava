@@ -102,6 +102,10 @@
 | 2024.08.04 | item 78 : Synchronize access to shared mutable data | 강윤서 | [공유 중인 가변 데이터는 동기화해 사용하라](https://amusing-blade-1b3.notion.site/78-18187efa075f41b680c3d5a5c0a65bbe?pvs=4) |
 | 2024.08.04 | item 79 : Avoid excessive synchronization | 강윤서 | [과도한 동기화는 피하라](https://amusing-blade-1b3.notion.site/79-04e29959e984463596cf274e84fe474f?pvs=4) |
 | 2024.08.04 | item 80 : Prefer executors, tasks, and streams to threads | 강윤서 | [스레드보다는 실행자, 태스크, 스트림을 애용하라](https://amusing-blade-1b3.notion.site/80-8bc23fc81c624bef95ef64df0da8e199?pvs=4) |
+| 2024.08.18 | item 81 : Prefer concurrency utilities to wait and notify | 임가영 | [wait와 notify보다는 동시성 유틸리티를 애용하라](https://www.notion.so/Item-81-wait-notify-4516ed29d38f489abbac267436cab435) |
+| 2024.08.18 | item 82 : Document thread safety | 임가영 | [스레드 안전성 수준을 문서화하라](https://incongruous-cheshire-d58.notion.site/Item-82-2f67e909dad545a2843bd39149c32377) |
+| 2024.08.18 | item 83 : Use lazy initialization judiciously | 임가영 | [지연 초기화는 신중히 사용하라](https://incongruous-cheshire-d58.notion.site/Item-83-b4df281841a741a98407d48a670368e2) |
+| 2024.08.18 | item 84 : Don’t depend on the thread scheduler | 임가영 | [프로그램의 동작을 스레드 스케줄러에 기대지 말라](https://incongruous-cheshire-d58.notion.site/Item-84-5c6cb4a406234809989cf2e87966674f) |
 
 ***
 ### 이슈 규칙
