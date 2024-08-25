@@ -106,6 +106,9 @@
 | 2024.08.18 | item 82 : Document thread safety | 임가영 | [스레드 안전성 수준을 문서화하라](https://incongruous-cheshire-d58.notion.site/Item-82-2f67e909dad545a2843bd39149c32377) |
 | 2024.08.18 | item 83 : Use lazy initialization judiciously | 임가영 | [지연 초기화는 신중히 사용하라](https://incongruous-cheshire-d58.notion.site/Item-83-b4df281841a741a98407d48a670368e2) |
 | 2024.08.18 | item 84 : Don’t depend on the thread scheduler | 임가영 | [프로그램의 동작을 스레드 스케줄러에 기대지 말라](https://incongruous-cheshire-d58.notion.site/Item-84-5c6cb4a406234809989cf2e87966674f) |
+| 2024.08.25 | item 85 : Prefer alternatives to Serialization | 이유정 | [자바 직렬화의 대안을 찾으라](https://legend-click-01d.notion.site/item85-97ba3bb7da9e43279f3503cad6139c12?pvs=4) |
+| 2024.08.25 | item 86 : Cautions for Serialization | 이유정 | [Serializable을 구현할지는 신중히 결정하라](https://legend-click-01d.notion.site/item86-Serializable-0ac2fc3604a1456581eabf11f942a109?pvs=4) |
+| 2024.08.25 | item 87 : Custom serialized form | 이유정 | [커스텀 직렬화 형태를 고려해보라](https://legend-click-01d.notion.site/item87-ad5673f2e5b64b298a08fd29a53d21d8?pvs=4) |
 
 ***
 ### 이슈 규칙
