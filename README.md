@@ -111,7 +111,7 @@
 | 2024.08.25 | item 87 : Custom serialized form | 이유정 | [커스텀 직렬화 형태를 고려해보라](https://legend-click-01d.notion.site/item87-ad5673f2e5b64b298a08fd29a53d21d8?pvs=4) |
 | 2024.09.01 | item 88 : readObject | 김세훈 | [readObject는 방어적으로 작성하라](https://chatter-shovel-8ae.notion.site/Item-88-readObject-917d0e609a8a4d5ebfb637818fb97448?pvs=4) |
 | 2024.09.01 | item 89 : readResolve, Enum | 김세훈 | [인스턴스 수를 통제해야 한다면 readResolve 보다는 열거 타입을 사용하라](https://chatter-shovel-8ae.notion.site/Item-89-readResolve-9646edc8ce7b4cf0afce7937eedc3de1?pvs=4) |
-| 2024.09.01 | item 90 : Serialization Proxy Pattern | 김세훈 | [직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라]([https://legend-click-01d.notion.site/item87-ad5673f2e5b64b298a08fd29a53d21d8?pvs=4](https://chatter-shovel-8ae.notion.site/Item-90-0ae509b5a8354c4c826a9379815f5055?pvs=4)) |
+| 2024.09.01 | item 90 : Serialization Proxy Pattern | 김세훈 | [직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라](https://chatter-shovel-8ae.notion.site/Item-90-0ae509b5a8354c4c826a9379815f5055?pvs=4) |
 
 ***
 ### 이슈 규칙
